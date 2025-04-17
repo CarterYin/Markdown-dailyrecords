@@ -3,15 +3,18 @@
 - [【教程】使用GitHub Desktop管理你的项目】](https://www.bilibili.com/video/BV13W411U7HY?vd_source=4fd6c4265e65c0785c912874692a3971)
 - [【大学生扫盲课】1 Git、GitHub 和 Gitee 完整讲解：从基础到进阶功能](https://www.bilibili.com/video/BV1G8CFYvEjt?vd_source=4fd6c4265e65c0785c912874692a3971)
 
+---
 
 # 遇到的一些问题
 - [【Github的2FA验证问题的丝滑解决方案 ||（Verify your two-factor authentication (2FA) settings）】](https://www.bilibili.com/video/BV1sj411e7wH?vd_source=4fd6c4265e65c0785c912874692a3971)
 
-
+---
 
 # 一些小技巧
 - 一个github使用小技巧，在看项目的时候，在项目链接中的github后加个1s后回车，即可快速查看。
 
+
+---
 
 # Github repository 协议选择
 GitHub 有许多开源的协议，刚开始使用时不知道选择哪些协议，今天我们就一起科普一下 GitHub 中的协议吧！
@@ -76,11 +79,6 @@ GitHub 有许多开源的协议，刚开始使用时不知道选择哪些协议�
 5. **不确定如何选择**  
    默认 None 保留全部权利，后续再决定。
 
----
-
-Bing 的学习笔记  
-微信公众号：专注于数据库和自动化领域的工程师
-
----  
-版权声明：本文为博主原创文章，遵循 CC 4.0 BY‑SA 版权协议，转载请附上原文出处链接和本声明  
+> 版权声明：本文为博主原创文章，遵循 CC 4.0 BY‑SA 版权协议，转载请附上原文出处链接和本声明  
 原文链接：https://blog.csdn.net/qq_42768234/article/details/104193778
+---
