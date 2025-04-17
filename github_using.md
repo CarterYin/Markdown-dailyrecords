@@ -82,3 +82,6 @@ GitHub 有许多开源的协议，刚开始使用时不知道选择哪些协议�
 > 版权声明：本文为博主原创文章，遵循 CC 4.0 BY‑SA 版权协议，转载请附上原文出处链接和本声明  
 原文链接：https://blog.csdn.net/qq_42768234/article/details/104193778
 ---
+
+# 未添加协议的repository后期添加协议的方法
+https://zhuoqianmingyue.blog.csdn.net/article/details/88819606?fromshare=blogdetail&sharetype=blogdetail&sharerId=88819606&sharerefer=PC&sharesource=Carter_Yin&sharefrom=from_link
