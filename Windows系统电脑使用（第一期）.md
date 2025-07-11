@@ -45,3 +45,8 @@ Everything：鉴于Windows自带的文件名查找速度极为缓慢，这款软
 Anytxt Searcher：一款补足了Everything的软件，可以查找包含特定文本内容的各类文件。
 
 图吧工具箱：神中神软件，功能极多，包含很多实用工具。https://www.tbtool.cn/
+
+
+# 播放器软件推荐
+- potplayer
+- 快播（QvodPlayer）
