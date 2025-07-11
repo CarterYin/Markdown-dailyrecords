@@ -1,4 +1,5 @@
-# Markdown_new_learner
+# 这是我关于日常学习中关于琐碎的记录
+## 包含了不同操作系统电脑使用、AI使用等等方面
  a new learner's note for Markdown
 # 一些入门时看的博主和视频
 - 这个视频带我进入markdown的世界🌍
