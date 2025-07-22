@@ -15,9 +15,11 @@
 - 在修改文件和文件夹的目录时，直接进入编辑界面，如下图。
 <img width="1371" height="109" alt="Screenshot 2025-07-23 at 00 36 21" src="https://github.com/user-attachments/assets/8e102fac-fb78-43e7-aa79-0abe13da2517" />
 - 如果添加上级目录直接打出上级目录名称（无论之前是否存在），例如
-``
+
+```bash
   Markdown-dailyrecords/test/github_using.md
-``
+```
+
 点击回车，commit changes即可，实现了将md文件移动到test文件夹下的操作，删除上级目录同理
 
 
