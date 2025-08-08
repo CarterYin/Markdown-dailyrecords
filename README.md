@@ -1,6 +1,6 @@
 # 这是我关于日常学习中关于琐碎的记录
 ## 包含了不同操作系统电脑使用、AI使用等等方面
- a new learner's note for Markdown
+
 # 一些入门时看的博主和视频
 - 这个视频带我进入markdown的世界🌍
 [【全网最详细Markdown入门使用教程】40分钟教会你用免费的vscode做出好看的笔记](https://www.bilibili.com/video/BV1bK4y1i7BY?vd_source=4fd6c4265e65c0785c912874692a3971)
