@@ -1,5 +1,8 @@
 # <font face="仿宋" color=orange>一些使用AI的指令和技巧</font>
 
+## 前段时间爆火的指令集：
+- https://www.reddit.com/r/ChatGPT/comments/1lnfcnt/after_147_failed_chatgpt_prompts_i_had_a/
+
 ## AI指令
 
 ### 国内AI
